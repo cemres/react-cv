@@ -31,10 +31,10 @@ const CV_DATA = {
     },
     {
       companyName: "Yeni Yüzyıl Üniversitesi Özel Gaziosmanpaşa Hastanesi",
-      location: "Istanbul",
-      title: "Hemşire - Staj",
+      location: "İstanbul",
+      title: "Nurse - Internship",
       description:
-        "Kan alma bölümünde hastalardan kan aldım ve ekg çektim, İlk yardımı, damar yolu açma ve serum takmayı öğrendim.",
+        "In the blood collection department, I took blood from the patients and did an ECG. I learned first aid, vascular access and IV insertion.",
       startDate: new Date("09/01/2018"),
       endDate: new Date("06/01/2019"),
     },
@@ -58,12 +58,12 @@ const CV_DATA = {
     {
       header: "Education",
       bodyDescription:
-        "Üniversite - Trakya Üniversitesi Bilgisayar Mühendisliği, Edirne - 3.51 Temmuz 2019 – Devam Ediyor ( 3. Sınıf )\nLise – Gaziosmanpaşa Anadolu Sağlık Meslek Lisesi, İstanbul – 94.25 Eylül 2015 – 2019",
+        "University - Trakya Üniversitesi Bilgisayar Mühendisliği, Edirne ( 3rd Grade )\nHigh School – Gaziosmanpaşa Anadolu Sağlık Meslek Lisesi, İstanbul",
     },
     {
       header: "Awards",
       bodyDescription:
-        "Karate Müsabakasında 2.lik gümüş madalya, Milli İzcilik Sertifikası, Diksiyon Tamamlama Sertifikası, Matematik\nYarışması 2.lik ödülü, Trakya Üniversitesi Unity Workshop Katılım Sertifikası",
+        "2nd place silver medal in Karate Competition, National Scout Certificate, Diction Completion Certificate, Mathematics Competition\n2nd place, Trakya University Unity Workshop Participation Certificate",
     },
   ],
 };
